@@ -1,7 +1,3 @@
-# ecoleta-frontend
-Mini marketplace de coleta de resíduos desenvolvido em ReactJS
-
-
 <h1 align="center">
   Ecoleta Frontend
 </h1>
