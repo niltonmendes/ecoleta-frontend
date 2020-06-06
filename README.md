@@ -24,7 +24,7 @@ yarn start
 ```
 git clone https://github.com/niltonmendes/ecoleta-backend.git
 ```
-- Depois de clonar o backend, basta rodar o comando:
+- Depois de clonar o backend, instalar todas as dependências e também o banco de dados, basta rodar o comando:
 ```
 yarn dev:server
 ```
