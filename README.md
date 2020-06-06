@@ -20,7 +20,7 @@ yarn
 ```
 yarn start
 ```
-- Para que a aplicação funcione corretamente, não esqueça de clonar também o backend:
+- Para que a aplicação funcione corretamente, não esqueça de clonar também o backend (veja as instruções do backend no repositório):
 ```
 git clone https://github.com/niltonmendes/ecoleta-backend.git
 ```
